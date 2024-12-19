@@ -8,8 +8,6 @@ Nota: Usa la versión de Python: 3.8.5.
 
 ## Características
 
-_Haz clic en el menú desplegable para más detalles._
-
 ### Reconocimiento de gestos:
 
 #### Gestos incluidos:
@@ -36,7 +34,7 @@ _Haz clic en el menú desplegable para más detalles._
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/xenon-19/Gesture-Controlled-Virtual-Mouse.git
+   git clone https://github.com/Gocardi/ACproyect.git
    ```
 2. Crear un entorno virtual:
    ```bash
