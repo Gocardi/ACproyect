@@ -52,7 +52,7 @@ Nota: Usa la versión de Python: 3.8.5.
    ```
 5. Navegar al directorio `src`:
    ```bash
-   cd Ruta\del\repositorio\Gesture-Controlled-Virtual-Mouse\src
+   cd Ruta\del\repositorio\ACproyect\src
    ```
 6. Ejecutar el asistente de voz:
    ```bash
