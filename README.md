@@ -54,10 +54,7 @@ Nota: Usa la versión de Python: 3.8.5.
    ```bash
    cd Ruta\del\repositorio\ACproyect\src
    ```
-6. Ejecutar el asistente de voz:
-   ```bash
-   python Proton.py
-   ```
+
    Para solo ejecutar el reconocimiento de gestos, descomenta las últimas dos líneas del archivo `Gesture_Controller.py` y ejecuta:
    ```bash
    python Gesture_Controller.py
